@@ -106,7 +106,7 @@ On first startup, an admin user is created automatically:
 ```
 http://localhost:8080/api
 ```
----
+
 ### Authentication Endpoints
 
 | Method | Endpoint | Description | Auth Required |
@@ -115,7 +115,7 @@ http://localhost:8080/api
 | POST | `/auth/verify-otp` | Verify OTP | No |
 | POST | `/auth/login` | Login user | No |
 | POST | `/auth/resend-otp` | Resend OTP | No |
----
+
 ### Account Endpoints
 
 | Method | Endpoint | Description | Auth Required |
